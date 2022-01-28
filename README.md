@@ -12,4 +12,4 @@ Taking the 100 Days of Code Challenge. I'll be learning JavaScript from the basi
 
 ## Day 2
 * Learnt proper Markdown. (as it is necessary for maintaining this readme)
-* 
+* [Control statements.](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/controlStatements..md) (if, else, else if) [Example Code](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/controlStatements.html)
