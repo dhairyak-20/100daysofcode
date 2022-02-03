@@ -17,3 +17,6 @@ Taking the 100 Days of Code Challenge. I'll be learning JavaScript from the basi
 ## Day 2
 * [Control Statements.](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/switchCase.md) (Switch Case) [Code File.](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/switchCase.html)
 * [For Loops.](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/forLoop.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [(Code File)](https://github.com/dhairyak-20/100daysofcode/blob/main/Code%20Files/forLoop.html)
+____
+# Exam Break
+____
