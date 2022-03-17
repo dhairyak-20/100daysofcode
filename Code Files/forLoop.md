@@ -53,9 +53,10 @@ Loop stopped!
 
 ### Q2. Print first five even numbers.
 ```javascript
+var count;
+    document.write("Starting Loop" + "<br />");
+
 for (var y = 2; y <= 10; y += 2) {
     document.write("<h2>" + y + "</h2>")
 }
-        var count;
-document.write("Starting Loop" + "<br />");
 ```
